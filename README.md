@@ -1,9 +1,9 @@
-                                ## Hi, this is Aundrila 👋
+   ## Hi, this is Aundrila 👋
 
 <!--
 **Aundrila/Aundrila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently doing my Master's in Data Science at TU Dortmund
 - 🌱 I’m currently working in a Working Student Position as a  Data Scientist at Task9 GmbH, Dortmund, Germany
