@@ -11,12 +11,16 @@
 - 📫 How to reach me: aundrila.dl@gmail.com
 
 ### Catch me on:
-
-
-
-
-
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aundrila-acharjee-4b4596207/)   
 - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ehVcytcAAAAJ&hl=en)   
+
+
+## 🛠️ Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
 
 
