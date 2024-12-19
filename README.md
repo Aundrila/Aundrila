@@ -11,8 +11,7 @@
 - 📫 How to reach me: aundrila.dl@gmail.com
 
 ### Catch me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=flat&logo=google-chrome)](https://yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-handle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://github.com/Aundrila))  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ehVcytcAAAAJ&hl=en)   
 
 
