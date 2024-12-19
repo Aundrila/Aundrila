@@ -10,7 +10,7 @@
 - 💬 Ask me about Data Science, Machine Learning, Computer Vision, Deep Learning, Statistics
 - 📫 How to reach me: aundrila.dl@gmail.com
 
-### Catch me on:
+### 🌐 Catch me on:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aundrila-acharjee-4b4596207/)   
 - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ehVcytcAAAAJ&hl=en)   
 
