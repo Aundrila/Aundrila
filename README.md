@@ -10,4 +10,9 @@
 - 💬 Ask me about Data Science, Machine Learning, Computer Vision, Statistics
 - 📫 How to reach me: aundrila.dl@gmail.com
 
+### Catch me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=flat&logo=google-chrome)](https://yourportfolio.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-handle)  
+
 
