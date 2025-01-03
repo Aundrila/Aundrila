@@ -7,7 +7,7 @@
 - 🔭 I am pursuing my Master's in Data Science at TU Dortmund.
 - 🌱 I’m currently working in a Working Student Position as a  Data Scientist at Task9 GmbH, Dortmund, Germany
 - 👯 I’m looking to collaborate on Data Science, Computer Vision, Time Series Analysis
-- 💬 Ask me about Data Science, Data Analysis Machine Learning, Computer Vision, Deep Learning, Statistics
+- 💬 Ask me about Data Science, Data Analysis, Machine Learning, Computer Vision, Deep Learning, Statistics
 - 📫 How to reach me: aundrila.dl@gmail.com
 
 ### 🌐 Catch me on:
