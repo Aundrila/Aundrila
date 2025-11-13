@@ -4,10 +4,10 @@
 
 
 
-- 🔭 I am pursuing my Master's in Data Science at TU Dortmund.
-- 👯 I’m looking to collaborate on Data Science, Data Analysis, Computer Vision, Time Series Analysis
-- 💬 Ask me about Data Science, Data Analysis, Machine Learning, Computer Vision, Deep Learning, Statistics
-- 📫 How to reach me: aundrila.dl@gmail.com
+-  I am pursuing my Master's in Data Science at TU Dortmund.
+-  I’m looking to collaborate on Data Science, Data Analysis, Computer Vision, Time Series Analysis
+-  Ask me about Data Science, Data Analysis, Machine Learning, Computer Vision, Deep Learning, Statistics
+-  How to reach me: aundrila.dl@gmail.com
 
 ### 🌐 Catch me on:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aundrila-acharjee-4b4596207/)   
